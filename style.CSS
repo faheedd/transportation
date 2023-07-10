@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: red;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+.container {
+    border: 1px solid white;
+    width: 700px;
+    height: 380px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 350px;
+}
+
+img {
+    margin-top: 12px;
+    margin-left: 12px;
+    width: 400px;
+    height: 300px;
+}
+
+.one {
+    border: 1px solid black;
+    margin-left: 420px;
+    margin-top: -115px;
+    width: 2px;
+    height: 110px;
+}
+
+.two {
+    border: 1px solid red;
+    margin-top: 10px;
+    margin-left: 12px;
+    width: 6px;
+    height: 40px;
+}
+
+.three {
+    font-size: 20px;
+    font-weight: 1000%;
+    background-color: white;
+    margin-left: 480px;
+    margin-top: -310px;
+}
+
+.four {
+    margin-left: 570px;
+    margin-top: -60px;
+    font-size: x-small;
+    font-weight: 1000;
+    background-color: white;
+}
+
+.five {
+    font-size: 32px;
+    font-weight: 1000;
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 520px;
+}
+
+.six {
+    margin-right: 15px;
+}
+
+.eight {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: white;
+    margin-top: 12px;
+    margin-left: 570px;
+}
+
+.nine {
+    color: #968c8cf5;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 650px;
+    background-color: white;
+}
+
+.ten {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 550px;
+    margin-top: 5px;
+    margin-left: 25px;
+}
+
+.eleven {
+    color: #8a8484;
+    background-color: white;
+    font-size: 11px;
+    margin-top: 3px;
+    margin-left: 25px;
+}
+
+b {
+    color: red;
+    background-color: white;
+}
